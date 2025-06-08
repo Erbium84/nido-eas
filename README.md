@@ -2,7 +2,7 @@
 
 # 🎨 Etch-a-Sketch Web Game
 A simple yet fun browser-based Etch-a-Sketch game built with HTML, CSS, and JavaScript.
-Draw by hovering over a dynamic grid of cells—just like the classic toy! Choose between HD (High Definition) and SD (Standard Definition) modes to switch grid resolutions and start sketching.
+Draw by hovering over a dynamic grid of cells, just like the classic toy! Choose between HD (High Definition) and SD (Standard Definition) modes to switch grid resolutions and start sketching.
 
 # ✨ Features
 🖱️ Mouse-hover sketching
